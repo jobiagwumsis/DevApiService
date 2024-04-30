@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    // Ensure no "test" script is included here
   },
   "keywords": [],
   "author": "",
@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/jobiagwumsis/DevApiService/issues"
   },
-  "homepage": "https://github.com/jobiagwumsis/DevApiService#readme",
-  "devDependencies": {
-    "jest": "^26.6.3"
-  }
+  "homepage": "https://github.com/jobiagwumsis/DevApiService#readme"
 }
