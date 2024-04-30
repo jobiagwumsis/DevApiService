@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    // Ensure no "test" script is included here
   },
   "keywords": [],
   "author": "",
