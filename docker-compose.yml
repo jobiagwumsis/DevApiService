@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  jenkins:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      JENKINS_OPTS: "--prefix=/jenkins"
+    volumes:
+      - jenkins-data:/var/jenkins_home
+volumes:
+  jenkins-data:
