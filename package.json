@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jobiagwumsis/DevApiService/issues"
   },
-  "homepage": "https://github.com/jobiagwumsis/DevApiService#readme"
+  "homepage": "https://github.com/jobiagwumsis/DevApiService#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
